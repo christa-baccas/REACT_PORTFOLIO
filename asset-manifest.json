@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/REACT_PORTFOLIO/static/css/main.32429546.chunk.css",
+    "main.js": "/REACT_PORTFOLIO/static/js/main.64effb24.chunk.js",
+    "main.js.map": "/REACT_PORTFOLIO/static/js/main.64effb24.chunk.js.map",
+    "runtime-main.js": "/REACT_PORTFOLIO/static/js/runtime-main.189eaf6a.js",
+    "runtime-main.js.map": "/REACT_PORTFOLIO/static/js/runtime-main.189eaf6a.js.map",
+    "static/css/2.383c0125.chunk.css": "/REACT_PORTFOLIO/static/css/2.383c0125.chunk.css",
+    "static/js/2.5f691c64.chunk.js": "/REACT_PORTFOLIO/static/js/2.5f691c64.chunk.js",
+    "static/js/2.5f691c64.chunk.js.map": "/REACT_PORTFOLIO/static/js/2.5f691c64.chunk.js.map",
+    "index.html": "/REACT_PORTFOLIO/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/REACT_PORTFOLIO/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.32429546.chunk.css.map": "/REACT_PORTFOLIO/static/css/main.32429546.chunk.css.map",
+    "static/js/2.5f691c64.chunk.js.LICENSE.txt": "/REACT_PORTFOLIO/static/js/2.5f691c64.chunk.js.LICENSE.txt",
+    "static/media/Christa_Baccas_Resume_Developer.48106ca6.pdf": "/REACT_PORTFOLIO/static/media/Christa_Baccas_Resume_Developer.48106ca6.pdf",
+    "static/media/NoteTaker.244daa7c.png": "/REACT_PORTFOLIO/static/media/NoteTaker.244daa7c.png",
+    "static/media/Password.026ae2cf.png": "/REACT_PORTFOLIO/static/media/Password.026ae2cf.png",
+    "static/media/budget.0c5a5b21.png": "/REACT_PORTFOLIO/static/media/budget.0c5a5b21.png",
+    "static/media/fanjam.2d66cd07.png": "/REACT_PORTFOLIO/static/media/fanjam.2d66cd07.png",
+    "static/media/headshot.5758ed15.png": "/REACT_PORTFOLIO/static/media/headshot.5758ed15.png",
+    "static/media/sweepers.4f9ae1e8.png": "/REACT_PORTFOLIO/static/media/sweepers.4f9ae1e8.png",
+    "static/media/weather.08d262af.png": "/REACT_PORTFOLIO/static/media/weather.08d262af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.189eaf6a.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.5f691c64.chunk.js",
+    "static/css/main.32429546.chunk.css",
+    "static/js/main.64effb24.chunk.js"
+  ]
+}
