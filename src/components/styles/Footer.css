@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.footer a{
+    font-size: 3rem;
+    box-sizing: border-box;
+    color: #778DA9;
+    cursor: pointer;
+    padding: .75rem;
+}
+
+.footer a:hover {
+    box-shadow: rgba(0, 0, 0, .3) 2px 8px 8px -5px;
+    transform: translate3d(0, 2px, 0);
+    color: #415A77;
+  }
+  
+  .footer a:focus {
+    box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
+  }

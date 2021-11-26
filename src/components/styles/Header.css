@@ -1,0 +1,16 @@
+.jumbotron-fluid{
+    height: 8rem;
+    text-align: center;
+}
+.jumbotron-fluid h1 {
+    font-size: 45px;
+    padding-top: 2rem;
+    font-family: 'Heebo', sans-serif;
+    font-weight: bolder;
+    color:#E0E1DD;
+
+}
+
+#main{
+    background-color: #0D1B2A;
+}
